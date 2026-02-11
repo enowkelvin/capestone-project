@@ -1,6 +1,6 @@
 # caption-project
 #Objective 
-Analyze service usage data to identify usage trends, customers performance,
+The objective is to analyze the different is service usage by subscribers and causal users
 and patterns that support data-driven decision-making.
 
 Analysing the ways different customers utilise bike services
