@@ -25,5 +25,7 @@ library(janitor)
 library(skimr)
 
 ##KEY INSIGHT
--identify customers activities over time
--highlighting top and most valuable customers
+##identify customers activities over time.
+##How do annual members and casual riders use Cyclistic bikes differently?
+##Why would casual riders buy Cyclistic annual memberships?
+##How can Cyclistic use digital media to influence casual riders to become members?
